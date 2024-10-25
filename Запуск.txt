@@ -1,0 +1,8 @@
+ 
+Активируем виртуальное окружение
+Устанавливаем pip install scrapy
+Устанавливаем pip install scrapy-proxies
+-
+Запускаем в терминале в подкаталоге /fixprice_parser командой scrapy crawl fixprice
+Код парсера в файле fixprice.py
+Результат в файле fixprice_products.json
